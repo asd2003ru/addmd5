@@ -19,14 +19,14 @@ func main() {
 	// Вычисляем MD5 хеш файла
 	hash, err := calculateMD5(filePath)
 	if err != nil {
-		fmt.Printf("Ошибка при вычислении MD5: %v\n", err)
+		fmt.Printf("Error calculating MD5: %v\n", err)
 		os.Exit(1)
 	}
 
 	// Вставляем хеш в начало файла
 	err = insertHashToFile(filePath, hash)
 	if err != nil {
-		fmt.Printf("Ошибка при записи хеша в файл: %v\n", err)
+		fmt.Printf("Error inserting hash: %v\n", err)
 		os.Exit(1)
 	}
 
