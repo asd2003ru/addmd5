@@ -1,13 +1,11 @@
 # Вычисление md5 для ZMOD.
 
-В архиве есть папка dist, в ней утилита вычисления и патча файла для использования с zmod
+1. [Выбираем](https://github.com/asd2003ru/addmd5/releases) под свою операционную систему:  
 
-1. Выбираем под свою операционную систему:  
-
-   - `addmd5_darwin_amd64`  (MacOS Intel)  
-   - `addmd5_darwin_arm64` (MacOS Silicon)  
-   - `addmd5_linux_amd64` (Linux)  
-   - `addmd5_windows_amd64.exe` (Windows)  
+   - `addmd5-darwin-amd64`  (MacOS Intel)  
+   - `addmd5-darwin-arm64` (MacOS Silicon)  
+   - `addmd5-linux-amd64` (Linux)  
+   - `addmd5-windows-amd64.exe` (Windows)  
 
 2. Копируем выбранный файл куда нибудь.  
 3. В Orca Slicer (Профиль процесса -> Прочее -> Скрипты постобработки) прописываем полный путь к файлу  
