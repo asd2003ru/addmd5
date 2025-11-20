@@ -12,7 +12,7 @@
 2. Копируем выбранный файл куда нибудь.  
 3. В Orca Slicer (Профиль процесса -> Прочее -> Скрипты постобработки) прописываем полный путь к файлу  
 
-Например: `C:\addmd5_windows_amd64.exe`
+Например: `C:\addmd5_windows_amd64.exe;`
 
 ## English
 
@@ -26,4 +26,4 @@
 2. Copy the selected file to a location of your choice.  
 3. In Orca Slicer (Process Profile -> Other -> Post-processing Scripts), specify the full path to the file  
 
-For example: `C:\addmd5_windows_amd64.exe`
+For example: `C:\addmd5_windows_amd64.exe;`
