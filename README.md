@@ -1,6 +1,6 @@
 # MD5 for ZMOD
 
-## Русский.
+## Русский
 
 1. [Скачиваем](https://github.com/asd2003ru/addmd5/releases) под свою операционную систему:  
 
@@ -14,7 +14,7 @@
 
 Например: `C:\addmd5_windows_amd64.exe`
 
-# English.
+## English
 
 1. [Download](https://github.com/asd2003ru/addmd5/releases) the version for your operating system:  
 
