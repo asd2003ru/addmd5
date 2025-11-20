@@ -1,6 +1,6 @@
 # Вычисление md5 для ZMOD.
 
-1. [Выбираем](https://github.com/asd2003ru/addmd5/releases) под свою операционную систему:  
+1. [Скачиваем](https://github.com/asd2003ru/addmd5/releases) под свою операционную систему:  
 
    - `addmd5-darwin-amd64`  (MacOS Intel)  
    - `addmd5-darwin-arm64` (MacOS Silicon)  
