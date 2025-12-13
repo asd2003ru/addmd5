@@ -13,7 +13,7 @@
 3. В linux, macos указать, что файл исполняемый `chmod +x addmd5-*`.  
 4. В Orca Slicer (Профиль процесса -> Прочее -> Скрипты постобработки) прописываем полный путь к файлу  
 
-Например: `C:\addmd5_windows_amd64.exe;`
+Например: `C:\addmd5-windows-amd64.exe;`
 
 ## English
 
@@ -28,4 +28,4 @@
 3. In linux, macos, specify that the file is executable `chmod +x addmd5-*`.  
 4. In Orca Slicer (Process Profile -> Other -> Post-processing Scripts), specify the full path to the file  
 
-For example: `C:\addmd5_windows_amd64.exe;`
+For example: `C:\addmd5-windows-amd64.exe;`
